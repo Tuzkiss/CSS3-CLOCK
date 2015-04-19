@@ -143,7 +143,6 @@ function Clock () {
       //document.title = hour + ':' + min + ':' + sec;
       timeEle.innerHTML = timeNow;
     }, 1000);
-    
   }
 
   // return interface
